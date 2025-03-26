@@ -1,4 +1,4 @@
 Basicamente es lo mismo que git pero con una gran diferencia, en este caso no se trabaja de manera local si no de manera remota
 
 COMANDOS:
-git remote add origin 
+git remote add origin main ()
